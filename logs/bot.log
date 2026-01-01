@@ -1,0 +1,22 @@
+2025-12-31 11:25:16,256 - INFO - BasicBot initialized
+2025-12-31 11:25:19,013 - INFO - Connected to Binance Futures Testnet
+2025-12-31 11:30:39,430 - INFO - BasicBot initialized
+2025-12-31 11:33:56,747 - INFO - Market order placed: {}
+2025-12-31 11:36:14,048 - INFO - BasicBot initialized
+2025-12-31 11:38:15,615 - INFO - BasicBot initialized
+2026-01-01 15:32:01,077 - INFO - BasicBot initialized
+2026-01-01 15:32:03,017 - INFO - Connection successful
+2026-01-01 15:59:53,493 - INFO - BasicBot initialized
+2026-01-01 15:59:55,630 - INFO - Connection successful
+2026-01-01 16:00:41,504 - INFO - Leverage set: {}
+2026-01-01 16:00:42,088 - INFO - Market order: {}
+2026-01-01 16:02:30,347 - INFO - BasicBot initialized
+2026-01-01 16:02:42,024 - ERROR - Connection failed: HTTPSConnectionPool(host='demo.binance.com', port=443): Read timed out. (read timeout=10)
+2026-01-01 16:11:25,135 - INFO - BasicBot initialized
+2026-01-01 16:11:27,168 - INFO - Connection successful
+2026-01-01 16:11:56,008 - INFO - Leverage set: {}
+2026-01-01 16:11:56,587 - INFO - Market order: {}
+2026-01-01 16:15:06,788 - INFO - BasicBot initialized
+2026-01-01 16:15:08,523 - INFO - Connection successful
+2026-01-01 16:15:38,783 - INFO - Leverage set: {}
+2026-01-01 16:15:39,455 - INFO - Market order: {}
